@@ -1,4 +1,4 @@
-# challenge
+# This is a demonstration of how I work
 This challenge was carried out as part of the application process for a Data Scientist position at Mercado Libre. I solved it successfully and joined the company!
 
 ## Challenge description:
